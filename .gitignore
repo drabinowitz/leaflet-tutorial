@@ -29,3 +29,5 @@ node_modules
 config.js
 
 bundle.js
+
+.*.swp
